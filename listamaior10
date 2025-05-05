@@ -1,0 +1,5 @@
+listamaior = [12,5,8,4,16,10,9,1,14,20]
+print("numeros pares e maiores que 10")
+for listanova in listamaior :
+    if listanova %2 == 0 and listanova > 10:
+     print(listanova)
