@@ -1,6 +1,6 @@
 **Repositório de Exercícios **  
 
-Coleção de arquivos Python e SQL desenvolvidos durante meu aprendizado, cobrindo:  
+Coleção de arquivos Python  
 
 ## 🧠 Tópicos Estudados  
 - **Fundamentos**: Variáveis, operadores, estruturas condicionais (`if-else`), loops (`for/while`)  
